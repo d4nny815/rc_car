@@ -1,0 +1,7 @@
+GPIO, PURPOSE
+
+4, pot input
+1, btn input
+17, green led
+18, yellow led
+12, red led 
