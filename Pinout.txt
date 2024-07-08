@@ -1,7 +1,13 @@
 GPIO, PURPOSE
 
-4, pot input
-1, btn input
-17, green led
+42, motor in1 input
+41, motor in2 input
+38, motor encA input
+39, motor encB input
+40, btn input
+
+8, green led
 18, yellow led
-12, red led 
+17, red led
+
+4, pot input

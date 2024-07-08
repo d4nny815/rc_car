@@ -20,5 +20,7 @@
 int pot_init();
 uint16_t pot_get_raw();
 uint32_t pot_get_uV();
+uint8_t pot_get_percent();
+
 
 #endif

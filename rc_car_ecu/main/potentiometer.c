@@ -32,3 +32,8 @@ uint32_t pot_get_uV() {
     uint16_t raw = pot_get_raw();
     return CONVERT_TO_UV(raw);
 }
+
+
+uint8_t pot_get_percent() {
+    return pot_get_raw() / 55;
+}
